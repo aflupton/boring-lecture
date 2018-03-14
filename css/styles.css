@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+p{
+  height:auto;
+  text-align: center;
+}
+
+p.intro{
+  font-weight: bold;
+}
+
+img.intro{
+  width:20%;
+
+}
+
+h2.intro{
+  color:red;
+
+}
