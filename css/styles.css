@@ -6,16 +6,16 @@ p{
   text-align: center;
 }
 
-p.intro{
+div.intro p{
   font-weight: bold;
 }
 
-img.intro{
+div.intro img{
   width:20%;
 
 }
 
-h2.intro{
+div.intro h2{
   color:red;
 
 }
